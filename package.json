@@ -1,0 +1,14 @@
+{
+  "name": "nodesnippets",
+  "version": "0.1.0",
+  "description": "Javascript code snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.5.2"
+  }
+}
